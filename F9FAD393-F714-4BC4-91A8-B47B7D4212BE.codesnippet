@@ -3,21 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>td</string>
+	<string>tm</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>//TODO: zhensaima-&lt;#time#&gt;-</string>
+	<string>- (void)test &lt;#MethodName#&gt; {
+    
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>FB37B9E3-FA5B-4177-91F3-083DDA52667A</string>
+	<string>F9FAD393-F714-4BC4-91A8-B47B7D4212BE</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>quick create todo need add time</string>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>TODO</string>
+	<string>Test Method</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

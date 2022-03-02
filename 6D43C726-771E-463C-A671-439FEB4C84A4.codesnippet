@@ -9,7 +9,8 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, assign) &lt;#Class#&gt; &lt;#property#&gt;;     &lt;##&gt;//!&lt; &lt;#note#&gt;
+	<string>/// &lt;#Description#&gt;
+@property (nonatomic, assign) &lt;#Class#&gt; &lt;#property#&gt;;
 </string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6D43C726-771E-463C-A671-439FEB4C84A4</string>

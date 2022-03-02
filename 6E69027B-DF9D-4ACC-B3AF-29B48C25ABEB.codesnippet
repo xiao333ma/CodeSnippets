@@ -11,7 +11,7 @@
 	<key>IDECodeSnippetContents</key>
 	<string>#pragma mark - Layout
 
-- (void)initializeView {
+- (void)p_layoutSubView {
     
 }
 

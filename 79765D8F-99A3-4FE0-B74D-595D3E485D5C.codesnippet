@@ -11,7 +11,7 @@
 	<key>IDECodeSnippetContents</key>
 	<string>- (UIImageView *)&lt;#property#&gt; {
     if (!_&lt;#property#&gt;) {
-        _&lt;#property#&gt; = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"&lt;#imageName#&gt;"]]
+        _&lt;#property#&gt; = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"&lt;#imageName#&gt;"]];
     }
     return _&lt;#property#&gt;;
 }</string>

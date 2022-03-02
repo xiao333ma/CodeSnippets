@@ -10,13 +10,13 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>+ (instancetype)sharedInstance {
-    static &lt;#Class#&gt; *_shared = nil;
+    static &lt;#Class#&gt; *shared = nil;
     static dispatch_once_t onceToken;
     dispatch_once(&amp;onceToken, ^{
-        _shared = [[&lt;#Class#&gt; alloc] init];
+        shared = [[&lt;#Class#&gt; alloc] init];
     });
     
-    return _shared;
+    return shared;
 }</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>500A9BFD-503A-4480-8218-D601807A99B0</string>
