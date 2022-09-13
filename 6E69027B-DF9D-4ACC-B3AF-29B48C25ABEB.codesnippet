@@ -15,9 +15,9 @@
     
 }
 
-#pragma mark - Action
+#pragma mark - Public
 
-#pragma mark - Helper
+#pragma mark - Private
 
 #pragma mark - Delegate
 
